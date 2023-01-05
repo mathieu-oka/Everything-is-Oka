@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Oka;Mathieu;
+ORG:Okaland
+TITLE:Créateur
+EMAIL;TYPE=personal:oka.mathieu@gmail.com
+TEL;TYPE=mobile:0650917868
+ADR;:;;7 rue Mathieu;Oka;Quebec;Canada;J0N 1E0
+URL;TYPE=linktree:https://linktr.ee/mathieu.oka
+END:VCARD
