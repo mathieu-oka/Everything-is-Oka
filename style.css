@@ -1,0 +1,21 @@
+header img{
+    height: 60px;
+    padding-top: 15px ;
+}
+
+.profil{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.pic-profile img{
+    margin: 30px;
+    height: 200px;
+    width: 200px;
+    border-radius: 100%;
+}
+
+.link{
+    text-align: center;
+    flex-direction: column;
+}
