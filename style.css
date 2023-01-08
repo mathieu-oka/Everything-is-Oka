@@ -11,7 +11,7 @@ header img {
 
 .profil {
   text-align: center;
-  margin-top: 50px;
+  margin-top: 30px;
 }
 
 .pic-profile img {
@@ -26,7 +26,13 @@ header img {
   text-align: center;
   flex-direction: column;
 }
-.link .instagram img {
+.link .contact button {
+  border-radius: 10px;
+  width: 300px;
+  margin: 10px;
+}
+.link .network img {
+  text-align: none;
   height: 100px;
   width: 100px;
 }
