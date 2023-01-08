@@ -24,17 +24,16 @@ header img {
 
 .link {
   text-align: center;
-  flex-direction: column;
 }
 .link .contact button {
   border-radius: 10px;
   width: 300px;
-  margin: 10px;
+  margin: 20px;
 }
 .link .network img {
-  text-align: none;
   height: 100px;
   width: 100px;
+  margin-bottom: 15px;
 }
 
 /*# sourceMappingURL=style.css.map */
