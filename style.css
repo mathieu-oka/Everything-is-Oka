@@ -1,9 +1,4 @@
 @import url("https://fonts.cdnfonts.com/css/bauhaus-93");
-header h1 {
-  font-family: "Bauhaus 93", sans-serif;
-  color: orange;
-  font-style: italic;
-}
 header img {
   height: 60px;
   padding-top: 15px;
@@ -29,6 +24,9 @@ header img {
   border-radius: 10px;
   width: 300px;
   margin: 20px;
+}
+.link .network {
+  width: auto;
 }
 .link .network img {
   height: 100px;
