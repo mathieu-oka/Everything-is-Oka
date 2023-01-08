@@ -1,0 +1,41 @@
+ @import url('https://fonts.cdnfonts.com/css/bauhaus-93');
+                
+
+header{
+        h1{
+            font-family: 'Bauhaus 93', sans-serif;
+            color: orange;
+            font-style: italic;
+                                                
+        }
+        img{
+    height: 60px;
+    padding-top: 15px ;
+    
+        }
+}
+
+.profil{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.pic-profile img{
+    margin: 30px;
+    height: 200px;
+    width: 183px;
+    border-radius: 100%;
+    object-fit: cover;
+}
+
+.link{
+    text-align: center;
+    flex-direction: column;
+
+        .instagram img{
+            height: 100px;
+            width: 100px;
+        }
+}
+
+
