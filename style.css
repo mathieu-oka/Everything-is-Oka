@@ -1,34 +1,34 @@
 @import url("https://fonts.cdnfonts.com/css/bauhaus-93");
-header img {
+body {
+  margin: 0;
+}
+body header img {
   height: 60px;
   padding-top: 15px;
 }
-
-.profil {
+body .profil {
   text-align: center;
   margin-top: 30px;
 }
-
-.pic-profile img {
+body .pic-profile img {
   margin: 30px;
   height: 200px;
   width: 183px;
   border-radius: 100%;
   object-fit: cover;
 }
-
-.link {
+body .link {
   text-align: center;
 }
-.link .contact button {
+body .link .contact button {
   border-radius: 10px;
   width: 300px;
   margin: 20px;
 }
-.link .network {
+body .link .network {
   width: auto;
 }
-.link .network img {
+body .link .network img {
   height: 100px;
   width: 100px;
   margin-bottom: 15px;
