@@ -1,6 +1,6 @@
 @import url("https://fonts.cdnfonts.com/css/bauhaus-93");
-body {
-  margin: 0 auto;
+* {
+  margin: 0;
 }
 
 .container {
@@ -34,12 +34,14 @@ header img {
   margin: 20px;
 }
 .link .network {
-  width: auto;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
 }
 .link .network img {
   height: 100px;
   width: 100px;
-  margin-bottom: 15px;
+  margin: 15px;
 }
 
 /*# sourceMappingURL=style.css.map */
